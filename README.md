@@ -15,22 +15,22 @@
 
 ### :hammer_and_wrench: Languages and Tools:
 #### 🌐 Web Dev
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,redux,nextjs,express,mongodb,mysql,nodejs,postgres,prisma,sqlite,wordpress" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgres,prisma,sqlite,wordpress,aws,vercel,firebase,supabase&perline=9" />
 
 #### 🧑🏻‍💻 Software
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,docker,nginx" />
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,linux,docker,nginx,vim,bash&perline=9" />
 
 #### 🎨 Web Design
 <img src="https://skillicons.dev/icons?i=figma,xd" />
 
 #### ⚙️ Tools
-<img src="https://skillicons.dev/icons?i=vim,git,aws,bash,firebase,latex,linux,neovim,postman,powershell,supabase,vercel,vscode" />
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,neovim,powershell,latex&perline=9" />
 
 #### ⚜️ Other (Machine Learning & Embedded Systems)
-<img src="https://skillicons.dev/icons?i=arduino,matlab,py,raspberrypi,tensorflow" />
+<img src="https://skillicons.dev/icons?i=py,tensorflow,matlab,arduino,raspberrypi&perline=9" />
 
 #### 🚧 Upcoming
-<img src="https://skillicons.dev/icons?i=django,graphql" />
+<img src="https://skillicons.dev/icons?i=django,graphql&perline=9" />
 
 <div align="center" height="200">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=light&locale=en&hide_border=false&username=YElshabrawy" height="175" alt="stats graph"    />
