@@ -44,16 +44,16 @@
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/yielshabrawy/" target="_blank">
-  <img align="center" alt="Youssef Islam | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <img align="center" alt="Youssef Islam | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" target="_blank" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/YIElshabrawy" target="_blank">
-  <img align="center" alt="Youssef Islam | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  <img align="center" alt="Youssef Islam | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" target="_blank" />
 </a> &nbsp;&nbsp;
 <a href="mailto:youssef.uni1@gmail.com" >
-  <img align="center" alt="Youssef Islam | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <img align="center" alt="Youssef Islam | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" target="_blank" />
 </a> &nbsp;&nbsp;
 <a href="https://wa.me/201157770687">
-    <img align="center" alt="Youssef Islam | Whatsapp" width="24px" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" />
+    <img align="center" alt="Youssef Islam | Whatsapp" width="24px" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" target="_blank" />
 </a> &nbsp;&nbsp;
 </p>
 </div>
