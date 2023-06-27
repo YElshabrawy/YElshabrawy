@@ -18,7 +18,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgres,prisma,sqlite,wordpress,aws,vercel,firebase,supabase&perline=9" />
 
 #### 🧑🏻‍💻 Software
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,linux,docker,nginx,vim,bash&perline=9" />
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,linux,docker,nginx,vim,bash,java&perline=9" />
 
 #### 🎨 Web Design
 <img src="https://skillicons.dev/icons?i=figma,xd" />
