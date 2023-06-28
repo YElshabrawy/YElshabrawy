@@ -40,7 +40,7 @@
 <hr/>
 
   <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
+  <h3><b>😄 Can Connect With Me On </b></h3>
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/yielshabrawy/" target="_blank">
