@@ -1,7 +1,7 @@
 <p align="center">
     <img width="200" src="https://github.com/YElshabrawy/YElshabrawy/blob/main/me.PNG">
 </p>
-<h1 align="center">Hi 👋, I'm Youssef Elshabrawy </h1>
+<h1 align="center">Hi 👋, I'm Youssef Elshabrawy</h1>
 <h3 align="center">Software Engineer | Full-Stack Web Developer | Machine Learning Enthusiast</h3>
 
 <div align="center">
