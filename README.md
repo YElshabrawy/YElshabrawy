@@ -8,7 +8,7 @@
   <p>- 🔭 I’m currently working on website <span>https://greenlamp.kz/</span></p>
   <p>- 🌱 I’m currently learning Django </p>
   <p>- 👯 I’m looking to collaborate on SAAS projects</p>
-  <p>- 📫 How to reach me: <span>youssef.uni1@gmail.com</span></p>
+  <p>- 📫 How to reach me: <span>youssef.uni1@gmail.com</span></p> 
 </div>
 
 <hr/>
